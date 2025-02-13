@@ -19,6 +19,10 @@ This project analyzes call center performance based on key metrics such as custo
 - 🐢 **Becky has the slowest response time**, yet her call resolution rate is relatively high (ranked 5th).
 - 🚀 **Martha has the highest speed of answering** within a specific time frame.
 
+## 📸 Call Center Dashboard  
+![Call Center Dashboard](https://raw.githubusercontent.com/7amzamagdi/call-center-project-PowerBI/main/call%20center.png)
+
+
 ## 🛠 How to Use
 1. Download the dataset and Power BI file.
 2. Open **Call_Center_Project.pbix** in Power BI.
