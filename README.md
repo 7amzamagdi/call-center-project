@@ -1,32 +1,28 @@
-# 📞 Call Center Performance Analysis
+# 📞 Call Center Analysis Dashboard
 
-![Call Center Image](https://callcenterstudio.com/wp-content/uploads/2020/06/Basic-Contact-Center-Features-Every-Provider-Should-Have-1.jpg)
+![Call Center](https://callcenterstudio.com/wp-content/uploads/2020/06/Basic-Contact-Center-Features-Every-Provider-Should-Have-1.jpg)
 
-## 📊 Project Overview
-This project analyzes call center performance based on key metrics such as customer satisfaction, call resolution rate, and agent efficiency. The insights derived from this analysis help improve customer service quality and operational efficiency.
+## 📊 Overview
+This project provides an in-depth analysis of a call center's performance over three months using Power BI. The dataset contains information on call resolution rates, customer satisfaction, speed of answer, and more.
 
-## 📁 Files Included
-- **📄 Call-Center-Dataset.xlsx** - The dataset containing call logs and performance metrics.
-- **📊 Call_Center_Project.pbix** - Power BI report with interactive visualizations.
+## 📂 Files Included
+- **Call-Center-Dataset.xlsx** 📑 - The dataset used for analysis.
+- **Call_Center_Project.pbix** 📊 - The Power BI report file.
 
 ## 🔍 Key Insights
-- ✅ Most satisfaction ratings are **3 and 4**.
-- 📉 The **average satisfaction rating** has decreased over three months, with **February being the highest** and **March the lowest**.
-- 📈 The **issue resolution rate was highest in January**, dropped in February, and increased again in March.
-- 🌅 The majority of calls occur **in the morning**.
-- ⚡ **Joe has the fastest response time**.
-- 🏆 **Jim has the highest call resolution rate**, even though his average response time is slower than Joe, Martha, and Dan.
-- 🐢 **Becky has the slowest response time**, yet her call resolution rate is relatively high (ranked 5th).
-- 🚀 **Martha has the highest speed of answering** within a specific time frame.
+- **📉 Customer Satisfaction**: Most satisfaction ratings are **3 and 4**, with February having the highest rating and March the lowest.
+- **✅ Issue Resolution**: January had the highest issue resolution rate, which dipped in February and then increased in March.
+- **🕘 Call Patterns**: Most calls occur in the **morning**.
+- **⚡ Response Speed**: Joe has the **fastest** response time, while Becky has the **slowest**.
+- **📞 Call Resolution**: Jim has the **highest** call resolution rate, despite having a lower answering speed.
+- **🏆 Best Overall**: Martha leads in both **speed of answering** and **resolution rate**.
 
-## 🛠 How to Use
-1. Download the dataset and Power BI file.
-2. Open **Call_Center_Project.pbix** in Power BI.
-3. Explore the interactive visualizations to gain insights.
+## 🌐 Access the Dashboard Online
+You can view the interactive Power BI dashboard **directly** from this link:  
+🔗 [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZjRkNDE0YTAtODgzNS00NDU4LThjNmEtODQ4ZWZkM2E2MTU3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-## 📢 Contributing
-Feel free to submit pull requests or suggestions to enhance this analysis! 🚀
+## 🖥️ Embedded Dashboard
+<iframe title="Call_Center_Project" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjRkNDE0YTAtODgzNS00NDU4LThjNmEtODQ4ZWZkM2E2MTU3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
----
-📬 For any questions, reach out to me. Happy analyzing! 📊🔥
+🚀 **Enjoy exploring the insights!**
 
